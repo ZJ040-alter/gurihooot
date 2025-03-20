@@ -1,0 +1,401 @@
+[
+    {
+        "pergunta": "O que é cyberbullying?",
+        "resposta": "Agressão repetitiva online contra alguém.",
+        "opcoes": [
+            "Início de uma amizade virtual.",
+            "Promoção de produtos através das redes sociais.",
+            "Troca de informações positivas entre usuários."
+        ]
+    },
+    {
+        "pergunta": "Quais são as formas mais comuns de cyberbullying?",
+        "resposta": "Ameaças, difamação, exclusão e vazamento de dados.",
+        "opcoes": [
+            "Compartilhamento de memes engraçados.",
+            "Trocas de mensagens amigáveis entre desconhecidos.",
+            "Publicação de fotos pessoais sem autorização."
+        ]
+    },
+    {
+        "pergunta": "Qual é a diferença entre bullying e cyberbullying?",
+        "resposta": "Cyberbullying ocorre no ambiente digital, sem barreiras físicas.",
+        "opcoes": [
+            "Bullying é mais comum no ambiente digital.",
+            "Cyberbullying é uma forma de bullying face a face.",
+            "Não há diferença entre bullying e cyberbullying."
+        ]
+    },
+    {
+        "pergunta": "Como as redes sociais podem ser usadas para o cyberbullying?",
+        "resposta": "Através de mensagens ofensivas, exposições e perseguições.",
+        "opcoes": [
+            "Para criar novos contatos de amizade.",
+            "Para compartilhar memes e conteúdos positivos.",
+            "Para vender produtos e serviços."
+        ]
+    },
+    {
+        "pergunta": "Quais são os impactos psicológicos do cyberbullying?",
+        "resposta": "Ansiedade, depressão e baixa autoestima.",
+        "opcoes": [
+            "Melhora do relacionamento social e autoestima.",
+            "Aumento da confiança e autossuficiência.",
+            "Nenhum impacto psicológico significativo."
+        ]
+    },
+    {
+        "pergunta": "O que fazer se você for vítima de cyberbullying?",
+        "resposta": "Bloquear o agressor, denunciar e buscar apoio.",
+        "opcoes": [
+            "Ignorar o agressor e seguir em frente.",
+            "Responder agressivamente ao agressor.",
+            "Compartilhar a situação com mais pessoas."
+        ]
+    },
+    {
+        "pergunta": "Como denunciar cyberbullying nas redes sociais?",
+        "resposta": "Usar ferramentas de denúncia de cada plataforma.",
+        "opcoes": [
+            "Enviar uma mensagem privada ao agressor.",
+            "Ignorar a situação e seguir em frente.",
+            "Apagar todas as provas da agressão."
+        ]
+    },
+    {
+        "pergunta": "O cyberbullying pode ser considerado crime?",
+        "resposta": "Sim, dependendo do caso, pode configurar crime.",
+        "opcoes": [
+            "Não, nunca é considerado crime.",
+            "Sim, mas somente se a vítima for um adulto.",
+            "Não, pois o ambiente digital não tem leis."
+        ]
+    },
+    {
+        "pergunta": "Quais leis protegem as vítimas de cyberbullying no Brasil?",
+        "resposta": "Lei do Bullying e Marco Civil da Internet.",
+        "opcoes": [
+            "Lei da Privacidade e Proteção de Dados Pessoais.",
+            "Código Penal Brasileiro.",
+            "Não existe legislação específica sobre isso."
+        ]
+    },
+    {
+        "pergunta": "Como os pais podem ajudar seus filhos a lidarem com o cyberbullying?",
+        "resposta": "Conversar, monitorar e incentivar o diálogo.",
+        "opcoes": [
+            "Ignorar o problema e esperar que se resolva sozinho.",
+            "Forçar os filhos a usar redes sociais para aprender.",
+            "Proibir totalmente o uso da internet."
+        ]
+    },
+    {
+        "pergunta": "O anonimato na internet facilita o cyberbullying?",
+        "resposta": "Sim, pois dificulta a identificação dos agressores.",
+        "opcoes": [
+            "Não, o anonimato é irrelevante para o cyberbullying.",
+            "Sim, mas apenas em redes sociais específicas.",
+            "Não, pois todos são identificados facilmente online."
+        ]
+    },
+    {
+        "pergunta": "Como identificar se uma pessoa está sofrendo cyberbullying?",
+        "resposta": "Mudança de comportamento, isolamento e tristeza constante.",
+        "opcoes": [
+            "Maior participação em redes sociais.",
+            "Maior interesse por filmes e livros.",
+            "Comportamento excessivamente otimista."
+        ]
+    },
+    {
+        "pergunta": "Quais são os sinais de que alguém está praticando cyberbullying?",
+        "resposta": "Comentários ofensivos frequentes e atitudes agressivas online.",
+        "opcoes": [
+            "Postagem de fotos felizes nas redes sociais.",
+            "Comportamento educado e respeitoso nas redes sociais.",
+            "Recompensa de outros usuários online."
+        ]
+    },
+    {
+        "pergunta": "Compartilhar memes ofensivos pode ser considerado cyberbullying?",
+        "resposta": "Sim, se causar humilhação ou sofrimento à vítima.",
+        "opcoes": [
+            "Não, memes são apenas engraçados.",
+            "Sim, se a pessoa não gostar do meme.",
+            "Não, isso é apenas uma brincadeira inofensiva."
+        ]
+    },
+    {
+        "pergunta": "Qual a importância da empatia na prevenção do cyberbullying?",
+        "resposta": "Ajuda a evitar agressões e promove respeito no ambiente digital.",
+        "opcoes": [
+            "Ajuda a aumentar a quantidade de seguidores.",
+            "Incentiva as pessoas a ignorarem o sofrimento alheio.",
+            "Reduz a importância do comportamento online."
+        ]
+    },
+    {
+        "pergunta": "O que é o efeito espectador no cyberbullying?",
+        "resposta": "Quando pessoas veem a agressão, mas não intervêm.",
+        "opcoes": [
+            "Quando uma pessoa pratica o bullying em grupo.",
+            "Quando as vítimas se tornam agressores.",
+            "Quando o cyberbullying ocorre em vídeos educativos."
+        ]
+    },
+    {
+        "pergunta": "Como as fake news podem estar relacionadas ao cyberbullying?",
+        "resposta": "Podem difamar e prejudicar a reputação de alguém.",
+        "opcoes": [
+            "Ajudam a promover uma imagem positiva da pessoa.",
+            "São irrelevantes no contexto do cyberbullying.",
+            "Podem ser usadas para proteger as vítimas."
+        ]
+    },
+    {
+        "pergunta": "Qual o papel dos influenciadores digitais na prevenção do cyberbullying?",
+        "resposta": "Podem educar e conscientizar sobre o respeito online.",
+        "opcoes": [
+            "Devem apenas promover produtos e marcas.",
+            "Não têm papel no combate ao cyberbullying.",
+            "Devem incentivar os seguidores a não se envolverem."
+        ]
+    },
+    
+    {
+        "pergunta": "O que é 'catfishing'?",
+        "resposta": "Criar uma identidade falsa online para enganar alguém.",
+        "opcoes": [
+            "Compartilhar fotos falsas para humor.",
+            "Enviar mensagens engraçadas para amigos.",
+            "Criar uma conta online apenas para vender produtos."
+        ]
+    },
+    {
+        "pergunta": "O que é 'trolling' na internet?",
+        "resposta": "Postar mensagens provocativas ou ofensivas com o objetivo de irritar os outros.",
+        "opcoes": [
+            "Criar conteúdo educativo e positivo.",
+            "Compartilhar memes engraçados.",
+            "Criar grupos de apoio online."
+        ]
+    },
+    {
+        "pergunta": "O que são 'cyberstalkers'?",
+        "resposta": "Pessoas que perseguem alguém virtualmente, tentando invadir sua privacidade.",
+        "opcoes": [
+            "Pessoas que divulgam informações úteis na internet.",
+            "Pessoas que oferecem conselhos sobre segurança online.",
+            "Pessoas que ajudam a combater o bullying online."
+        ]
+    },
+    {
+        "pergunta": "Como o cyberbullying pode afetar o comportamento de uma vítima?",
+        "resposta": "Pode causar isolamento, medo e mudanças no comportamento.",
+        "opcoes": [
+            "Pode resultar em maior confiança social.",
+            "Não tem impacto no comportamento da vítima.",
+            "Faz com que a vítima se torne mais popular online."
+        ]
+    },
+    {
+        "pergunta": "O que é 'doxing'?",
+        "resposta": "Exposição pública de dados privados de alguém sem seu consentimento.",
+        "opcoes": [
+            "Compartilhamento de informações públicas nas redes sociais.",
+            "Envio de mensagens de apoio a vítimas de bullying.",
+            "Divulgação de notícias falsas para gerar controvérsia."
+        ]
+    },
+    {
+        "pergunta": "Qual a diferença entre bullying tradicional e cyberbullying?",
+        "resposta": "Cyberbullying ocorre exclusivamente no ambiente digital, enquanto o bullying tradicional ocorre face a face.",
+        "opcoes": [
+            "O bullying tradicional é mais grave que o cyberbullying.",
+            "Cyberbullying só acontece em ambientes escolares.",
+            "Ambos têm o mesmo impacto psicológico nas vítimas."
+        ]
+    },
+    {
+        "pergunta": "Quais são os principais grupos mais vulneráveis ao cyberbullying?",
+        "resposta": "Jovens, minorias e pessoas com comportamentos diferentes.",
+        "opcoes": [
+            "Adultos que utilizam redes sociais com frequência.",
+            "Pessoas que têm perfis em redes sociais populares.",
+            "Usuários que postam frequentemente conteúdos engraçados."
+        ]
+    },
+    {
+        "pergunta": "Qual é a importância de uma intervenção precoce no caso de cyberbullying?",
+        "resposta": "Evita que a situação se agrave e protege a saúde mental da vítima.",
+        "opcoes": [
+            "Ajuda a promover a popularidade da vítima.",
+            "Dificulta a resolução do problema.",
+            "Não tem impacto relevante na situação."
+        ]
+    },
+    {
+        "pergunta": "Como os influenciadores digitais podem ajudar a combater o cyberbullying?",
+        "resposta": "Promovendo campanhas educativas e sendo exemplos de respeito online.",
+        "opcoes": [
+            "Criando mais conteúdo polêmico e controverso.",
+            "Desprezando as vítimas de cyberbullying.",
+            "Focando apenas em suas próprias experiências online."
+        ]
+    },
+    {
+        "pergunta": "O que é 'sexting'?",
+        "resposta": "Envio de conteúdo sexual explícito através de mensagens ou redes sociais.",
+        "opcoes": [
+            "Compartilhar fotos de férias nas redes sociais.",
+            "Trocar mensagens de apoio emocional com amigos.",
+            "Enviar memes engraçados para familiares."
+        ]
+    },
+    {
+        "pergunta": "O que é o 'hate speech' na internet?",
+        "resposta": "Discurso de ódio, geralmente visando atacar grupos ou indivíduos.",
+        "opcoes": [
+            "Postagem de opiniões políticas de forma respeitosa.",
+            "Debates construtivos sobre temas sociais.",
+            "Mensagens de incentivo e motivação."
+        ]
+    },
+    {
+        "pergunta": "Quais são as consequências do cyberbullying para a vítima?",
+        "resposta": "Dificuldades emocionais, sociais e acadêmicas.",
+        "opcoes": [
+            "Aumento da popularidade e reconhecimento online.",
+            "Maior interação e aceitação no grupo social.",
+            "Nenhuma consequência perceptível."
+        ]
+    },
+    {
+        "pergunta": "O que é 'flaming' na internet?",
+        "resposta": "Postagem de mensagens agressivas e insultantes de forma pública.",
+        "opcoes": [
+            "Compartilhamento de conteúdos educacionais.",
+            "Discussões amigáveis sobre temas de interesse comum.",
+            "Comentários elogiosos sobre a pessoa."
+        ]
+    },
+    {
+        "pergunta": "Como as vítimas de cyberbullying devem reagir?",
+        "resposta": "Buscar apoio de amigos, familiares e denunciar os agressores.",
+        "opcoes": [
+            "Ignorar os agressores e tentar se afastar da internet.",
+            "Respeitar as agressões e responder com mais agressividade.",
+            "Publicar mais conteúdos para aumentar a visibilidade."
+        ]
+    },
+    {
+        "pergunta": "O que é 'ghosting'?",
+        "resposta": "Corte de comunicação com alguém de forma abrupta e sem explicação.",
+        "opcoes": [
+            "Troca de mensagens diárias com amigos.",
+            "Apoio emocional contínuo através de mensagens.",
+            "Interação constante em redes sociais."
+        ]
+    },
+    {
+        "pergunta": "Como os aplicativos de mensagens podem facilitar o cyberbullying?",
+        "resposta": "Permitem o envio de mensagens anônimas e em grande quantidade.",
+        "opcoes": [
+            "Facilitam apenas o envio de fotos de boa qualidade.",
+            "Possuem configurações de privacidade avançadas.",
+            "São utilizados apenas para bate-papo amigável."
+        ]
+    },
+    {
+        "pergunta": "O que é 'shaming' nas redes sociais?",
+        "resposta": "Humilhar publicamente alguém com o intuito de envergonhá-lo.",
+        "opcoes": [
+            "Elogiar abertamente alguém em público.",
+            "Criar campanhas positivas de incentivo.",
+            "Compartilhar experiências pessoais com respeito."
+        ]
+    },
+    {
+        "pergunta": "O que são 'memes' ofensivos?",
+        "resposta": "Imagens ou vídeos criados para zombar de alguém, com a intenção de humilhar.",
+        "opcoes": [
+            "Vídeos educativos sobre temas sociais.",
+            "Mensagens de apoio para amigos e familiares.",
+            "Imagens engraçadas para descontrair."
+        ]
+    },
+    {
+        "pergunta": "Quais são as principais características do comportamento agressivo online?",
+        "resposta": "Insultos, provocações e comentários de ódio.",
+        "opcoes": [
+            "Elogios e mensagens motivacionais.",
+            "Interações construtivas e respeitosas.",
+            "Discussões sobre temas de interesse comum."
+        ]
+    },
+    {
+        "pergunta": "Como o anonimato contribui para o cyberbullying?",
+        "resposta": "Facilita a prática de bullying sem medo de represálias.",
+        "opcoes": [
+            "Faz com que as vítimas se sintam mais seguras.",
+            "Impede qualquer tipo de agressão online.",
+            "Motiva os usuários a interagir de forma respeitosa."
+        ]
+    },
+    {
+        "pergunta": "O que é a 'cultura do cancelamento'?",
+        "resposta": "Ato de boicotar ou excluir alguém das redes sociais devido a comportamentos controversos.",
+        "opcoes": [
+            "Processo de inclusão social e apoio a minorias.",
+            "Promoção de indivíduos que falam a verdade.",
+            "Discussões abertas e respeitosas sobre comportamentos."
+        ]
+    },
+    {
+        "pergunta": "Como a vítima de cyberbullying pode proteger sua privacidade online?",
+        "resposta": "Ajustando as configurações de privacidade nas redes sociais.",
+        "opcoes": [
+            "Compartilhando mais informações pessoais.",
+            "Aumentando a visibilidade de suas postagens.",
+            "Usando um nome falso nas redes sociais."
+        ]
+    },
+    {
+        "pergunta": "Qual é a relação entre bullying tradicional e cyberbullying?",
+        "resposta": "Ambos envolvem agressões, mas o cyberbullying ocorre no ambiente online.",
+        "opcoes": [
+            "O cyberbullying é mais leve que o bullying tradicional.",
+            "O bullying tradicional ocorre apenas na escola.",
+            "O cyberbullying é apenas uma forma de piada entre amigos."
+        ]
+    },
+    {
+        "pergunta": "O que é um 'agressor virtual'?",
+        "resposta": "Alguém que pratica cyberbullying através de insultos ou difamações online.",
+        "opcoes": [
+            "Alguém que compartilha informações úteis e positivas online.",
+            "Alguém que cria conteúdos educativos sobre segurança digital.",
+            "Alguém que promove campanhas de inclusão online."
+        ]
+    },
+    {
+        "pergunta": "Quais são os impactos do cyberbullying nas redes sociais?",
+        "resposta": "Causa sofrimento emocional e pode prejudicar a reputação online da vítima.",
+        "opcoes": [
+            "Aumenta a visibilidade da vítima nas redes sociais.",
+            "Faz com que a vítima se torne mais popular online.",
+            "Não tem impacto significativo nas redes sociais."
+        ]
+    },
+    {
+        "pergunta": "Como os pais podem monitorar as atividades online de seus filhos?",
+        "resposta": "Utilizando ferramentas de controle parental e monitoramento de atividades.",
+        "opcoes": [
+            "Proibindo totalmente o uso da internet.",
+            "Ajudando os filhos a criar várias contas online.",
+            "Deixando os filhos usarem as redes sociais sem restrições."
+        ]
+    }
+]
+    
+    

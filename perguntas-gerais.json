@@ -1,0 +1,327 @@
+[
+    {
+        "pergunta": "Qual é a capital da França?",
+        "resposta": "Paris",
+        "opcoes": [
+            "Londres",
+            "Berlim",
+            "Roma"
+        ]
+    },
+    {
+        "pergunta": "Quem pintou a Mona Lisa?",
+        "resposta": "Leonardo da Vinci",
+        "opcoes": [
+            "Pablo Picasso",
+            "Vincent van Gogh",
+            "Claude Monet"
+        ]
+    },
+    {
+        "pergunta": "Qual é o maior planeta do Sistema Solar?",
+        "resposta": "Júpiter",
+        "opcoes": [
+            "Terra",
+            "Marte",
+            "Saturno"
+        ]
+    },
+    {
+        "pergunta": "Quem escreveu 'Dom Quixote'?",
+        "resposta": "Miguel de Cervantes",
+        "opcoes": [
+            "J.K. Rowling",
+            "Shakespeare",
+            "Machado de Assis"
+        ]
+    },
+    {
+        "pergunta": "Qual é o elemento químico com o símbolo 'O'?",
+        "resposta": "Oxigênio",
+        "opcoes": [
+            "Ouro",
+            "Ósmio",
+            "Oganessônio"
+        ]
+    },
+    {
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "resposta": "1500",
+        "opcoes": [
+            "1492",
+            "1600",
+            "1800"
+        ]
+    },
+    {
+        "pergunta": "Qual é o rio mais longo do mundo?",
+        "resposta": "Rio Amazonas",
+        "opcoes": [
+            "Rio Nilo",
+            "Rio Yangtzé",
+            "Rio Mississippi"
+        ]
+    },
+    {
+        "pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
+        "resposta": "George Washington",
+        "opcoes": [
+            "Abraham Lincoln",
+            "Thomas Jefferson",
+            "Franklin D. Roosevelt"
+        ]
+    },
+    {
+        "pergunta": "Qual é o maior oceano do planeta?",
+        "resposta": "Oceano Pacífico",
+        "opcoes": [
+            "Oceano Atlântico",
+            "Oceano Índico",
+            "Oceano Ártico"
+        ]
+    },
+    {
+        "pergunta": "Em que país nasceu o filósofo Sócrates?",
+        "resposta": "Grécia",
+        "opcoes": [
+            "Roma",
+            "Egito",
+            "França"
+        ]
+    },
+    {
+        "pergunta": "Quem inventou a lâmpada elétrica?",
+        "resposta": "Thomas Edison",
+        "opcoes": [
+            "Nikola Tesla",
+            "Alexander Graham Bell",
+            "Benjamin Franklin"
+        ]
+    },
+    {
+        "pergunta": "Qual é o maior animal terrestre?",
+        "resposta": "Elefante africano",
+        "opcoes": [
+            "Girafa",
+            "Rinoceronte",
+            "Búfalo"
+        ]
+    },
+    {
+        "pergunta": "Quem foi o primeiro homem a pisar na Lua?",
+        "resposta": "Neil Armstrong",
+        "opcoes": [
+            "Yuri Gagarin",
+            "Buzz Aldrin",
+            "Michael Collins"
+        ]
+    },
+    {
+        "pergunta": "O que é a fotossíntese?",
+        "resposta": "Processo pelo qual as plantas produzem energia a partir da luz solar.",
+        "opcoes": [
+            "Processo de respiração das plantas.",
+            "Absorção de nutrientes pelas raízes das plantas.",
+            "Reprodução das plantas através de sementes."
+        ]
+    },
+    {
+        "pergunta": "Qual é o símbolo químico do hidrogênio?",
+        "resposta": "H",
+        "opcoes": [
+            "O",
+            "He",
+            "N"
+        ]
+    },
+    {
+        "pergunta": "Em que continente está localizado o Egito?",
+        "resposta": "África",
+        "opcoes": [
+            "Ásia",
+            "América",
+            "Europa"
+        ]
+    },
+    {
+        "pergunta": "Qual é o maior deserto do mundo?",
+        "resposta": "Deserto da Antártida",
+        "opcoes": [
+            "Deserto do Saara",
+            "Deserto de Gobi",
+            "Deserto de Kalahari"
+        ]
+    },
+    {
+        "pergunta": "Qual é a língua mais falada no mundo?",
+        "resposta": "Mandarim",
+        "opcoes": [
+            "Inglês",
+            "Espanhol",
+            "Árabe"
+        ]
+    },
+    {
+        "pergunta": "Quem foi o autor de 'A Divina Comédia'?",
+        "resposta": "Dante Alighieri",
+        "opcoes": [
+            "William Shakespeare",
+            "Homero",
+            "John Milton"
+        ]
+    },
+    {
+        "pergunta": "Qual é o maior arquipélago do mundo?",
+        "resposta": "Indonésia",
+        "opcoes": [
+            "Filipinas",
+            "Maldivas",
+            "Havai"
+        ]
+    },
+    {
+        "pergunta": "Quem pintou 'A Noite Estrelada'?",
+        "resposta": "Vincent van Gogh",
+        "opcoes": [
+            "Pablo Picasso",
+            "Claude Monet",
+            "Leonardo da Vinci"
+        ]
+    },
+    {
+        "pergunta": "Qual é o país mais populoso do mundo?",
+        "resposta": "China",
+        "opcoes": [
+            "Índia",
+            "Estados Unidos",
+            "Indonésia"
+        ]
+    },
+    {
+        "pergunta": "O que é a teoria da relatividade?",
+        "resposta": "Teoria de Albert Einstein que descreve a gravidade como a curvatura do espaço-tempo.",
+        "opcoes": [
+            "Teoria que explica a evolução das espécies.",
+            "Teoria que sugere que a Terra é plana.",
+            "Teoria sobre a origem do universo."
+        ]
+    },
+    {
+        "pergunta": "Qual é o maior continente do planeta?",
+        "resposta": "Ásia",
+        "opcoes": [
+            "África",
+            "América",
+            "Europa"
+        ]
+    },
+    {
+        "pergunta": "Quem é o autor de 'O Senhor dos Anéis'?",
+        "resposta": "J.R.R. Tolkien",
+        "opcoes": [
+            "George R.R. Martin",
+            "J.K. Rowling",
+            "C.S. Lewis"
+        ]
+    },
+    {
+        "pergunta": "Qual é a moeda oficial do Japão?",
+        "resposta": "Iene",
+        "opcoes": [
+            "Dólar",
+            "Euro",
+            "Won"
+        ]
+    },
+    {
+        "pergunta": "O que é um eclipse solar?",
+        "resposta": "Quando a Lua passa entre a Terra e o Sol, bloqueando a luz solar.",
+        "opcoes": [
+            "Quando a Terra passa entre o Sol e a Lua.",
+            "Quando a Terra bloqueia a luz da Lua.",
+            "Quando o Sol fica completamente visível durante o dia."
+        ]
+    },
+    {
+        "pergunta": "Quem foi o autor de '1984'?",
+        "resposta": "George Orwell",
+        "opcoes": [
+            "Aldous Huxley",
+            "Ray Bradbury",
+            "Philip K. Dick"
+        ]
+    },
+    {
+        "pergunta": "Qual é a maior montanha do mundo?",
+        "resposta": "Monte Everest",
+        "opcoes": [
+            "Monte Kilimanjaro",
+            "Monte Fuji",
+            "Monte McKinley"
+        ]
+    },
+    {
+        "pergunta": "Em que país está localizada a Muralha da China?",
+        "resposta": "China",
+        "opcoes": [
+            "Índia",
+            "Japão",
+            "Coreia do Sul"
+        ]
+    },
+    {
+        "pergunta": "Quem inventou o telefone?",
+        "resposta": "Alexander Graham Bell",
+        "opcoes": [
+            "Thomas Edison",
+            "Nikola Tesla",
+            "Michael Faraday"
+        ]
+    },
+    {
+        "pergunta": "Quem foi o primeiro imperador do Brasil?",
+        "resposta": "Dom Pedro I",
+        "opcoes": [
+            "Dom João VI",
+            "Getúlio Vargas",
+            "Juscelino Kubitschek"
+        ]
+    },
+    {
+        "pergunta": "Qual é a distância média da Terra ao Sol?",
+        "resposta": "150 milhões de quilômetros",
+        "opcoes": [
+            "120 milhões de quilômetros",
+            "200 milhões de quilômetros",
+            "100 milhões de quilômetros"
+        ]
+    },
+    {
+        "pergunta": "Em que ano terminou a Primeira Guerra Mundial?",
+        "resposta": "1918",
+        "opcoes": [
+            "1945",
+            "1914",
+            "1939"
+        ]
+    },
+    {
+        "pergunta": "Qual é o continente onde está localizada a Austrália?",
+        "resposta": "Oceania",
+        "opcoes": [
+            "Ásia",
+            "América",
+            "Europa"
+        ]
+    },
+    {
+        "pergunta": "Qual é o esporte mais popular do mundo?",
+        "resposta": "Futebol",
+        "opcoes": [
+            "Basquete",
+            "Tênis",
+            "Vôlei"
+        ]
+    }
+]
+

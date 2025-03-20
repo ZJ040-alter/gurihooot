@@ -1,0 +1,218 @@
+[
+    {
+        "pergunta": "O que é a cidadania?",
+        "resposta": "O direito e dever de participar ativamente da vida política e social de um país.",
+        "opcoes": [
+            "A obrigação de pagar impostos.",
+            "Viver em um país estrangeiro.",
+            "A capacidade de votar em qualquer eleição."
+        ]
+    },
+    {
+        "pergunta": "O que é um direito humano?",
+        "resposta": "Um direito fundamental que todas as pessoas têm independentemente de sua origem, raça ou nacionalidade.",
+        "opcoes": [
+            "Direito de adquirir propriedades em qualquer país.",
+            "Direito de viajar para qualquer parte do mundo.",
+            "Direito de ser reconhecido internacionalmente."
+        ]
+    },
+    {
+        "pergunta": "O que é a inclusão social?",
+        "resposta": "A promoção de condições para que todas as pessoas, independentemente de suas diferenças, possam participar de forma plena na sociedade.",
+        "opcoes": [
+            "A exclusão de grupos sociais para proteger a sociedade.",
+            "A integração de pessoas apenas com características semelhantes.",
+            "A criação de barreiras entre diferentes grupos sociais."
+        ]
+    },
+    {
+        "pergunta": "O que significa a expressão 'igualdade de direitos'?",
+        "resposta": "Todos os indivíduos têm os mesmos direitos perante a lei, sem discriminação.",
+        "opcoes": [
+            "A igualdade entre homens e mulheres em todas as esferas sociais.",
+            "A concessão de benefícios para grupos específicos.",
+            "A limitação de direitos para determinadas classes sociais."
+        ]
+    },
+    {
+        "pergunta": "O que caracteriza uma sociedade democrática?",
+        "resposta": "A liberdade de expressão, direito ao voto e participação ativa dos cidadãos.",
+        "opcoes": [
+            "A ausência de leis rígidas.",
+            "A existência de um único partido político.",
+            "O controle total do governo sobre as decisões sociais."
+        ]
+    },
+    {
+        "pergunta": "O que é o preconceito?",
+        "resposta": "Julgamento negativo ou discriminação contra uma pessoa ou grupo baseado em características como raça, gênero ou classe social.",
+        "opcoes": [
+            "Uma forma de respeitar as diferenças entre as pessoas.",
+            "Aceitar todas as crenças sem questionamento.",
+            "Reconhecer as conquistas de grupos marginalizados."
+        ]
+    },
+    {
+        "pergunta": "O que é a pobreza?",
+        "resposta": "A falta de recursos financeiros e materiais para garantir uma vida digna.",
+        "opcoes": [
+            "Falta de acesso a bens de luxo.",
+            "Falta de acesso a dispositivos tecnológicos.",
+            "Falta de acesso à educação superior."
+        ]
+    },
+    {
+        "pergunta": "O que é a segregação social?",
+        "resposta": "A separação de diferentes grupos sociais em uma sociedade, geralmente com base em características como classe social, raça ou religião.",
+        "opcoes": [
+            "A união de diferentes grupos sociais para trabalhar juntos.",
+            "A integração de grupos sociais em um único espaço.",
+            "O apoio exclusivo para grupos minoritários."
+        ]
+    },
+    {
+        "pergunta": "O que é a desigualdade social?",
+        "resposta": "A disparidade de acesso a recursos e oportunidades entre diferentes grupos sociais.",
+        "opcoes": [
+            "O equilíbrio de acesso a recursos para todos.",
+            "A eliminação das classes sociais.",
+            "O apoio exclusivo para pessoas de alta renda."
+        ]
+    },
+    {
+        "pergunta": "O que é a violência doméstica?",
+        "resposta": "Abuso físico, psicológico ou sexual dentro do ambiente familiar.",
+        "opcoes": [
+            "Violência em ambientes públicos.",
+            "Disputas por questões políticas.",
+            "Violência contra a propriedade pública."
+        ]
+    },
+    {
+        "pergunta": "O que caracteriza o trabalho infantil?",
+        "resposta": "O trabalho realizado por crianças e adolescentes abaixo da idade mínima legal, prejudicando sua educação e desenvolvimento.",
+        "opcoes": [
+            "O trabalho em regime de férias.",
+            "O trabalho voluntário para a comunidade.",
+            "O trabalho remunerado de adultos com salários justos."
+        ]
+    },
+    {
+        "pergunta": "O que é a liberdade de expressão?",
+        "resposta": "O direito de manifestar opiniões, ideias e pensamentos sem censura ou punição.",
+        "opcoes": [
+            "A possibilidade de protestar contra qualquer decisão do governo.",
+            "O direito de influenciar outras pessoas através de ideias.",
+            "A autorização para falar qualquer coisa sem consequências."
+        ]
+    },
+    {
+        "pergunta": "O que é o feminismo?",
+        "resposta": "Movimento social e político que luta pela igualdade de direitos entre mulheres e homens.",
+        "opcoes": [
+            "Movimento que defende apenas os direitos das mulheres.",
+            "Movimento para a promoção do bem-estar masculino.",
+            "Movimento que defende a exclusão dos homens da sociedade."
+        ]
+    },
+    {
+        "pergunta": "O que é um direito de minoria?",
+        "resposta": "Direitos especiais concedidos a grupos que enfrentam discriminação ou marginalização.",
+        "opcoes": [
+            "Direitos exclusivos para pessoas ricas.",
+            "Direitos limitados a um número específico de pessoas.",
+            "Direitos para grupos que ocupam cargos de liderança."
+        ]
+    },
+    {
+        "pergunta": "O que significa diversidade cultural?",
+        "resposta": "A convivência e respeito entre diferentes culturas e tradições.",
+        "opcoes": [
+            "A imposição de uma cultura sobre as demais.",
+            "A eliminação de diferentes culturas para criar uma sociedade homogênea.",
+            "A celebração de uma cultura específica."
+        ]
+    },
+    {
+        "pergunta": "O que é a mobilidade social?",
+        "resposta": "A capacidade de um indivíduo ou grupo de mudar de posição dentro da hierarquia social.",
+        "opcoes": [
+            "A facilidade de se mudar de cidade.",
+            "A capacidade de viajar para outros países.",
+            "A mobilidade física de pessoas em ambientes urbanos."
+        ]
+    },
+    {
+        "pergunta": "O que é a pobreza extrema?",
+        "resposta": "A condição de vida em que as pessoas não têm acesso aos recursos mínimos necessários para a sobrevivência, como alimentação e abrigo.",
+        "opcoes": [
+            "A condição em que uma pessoa vive com muito dinheiro, mas sem qualidade de vida.",
+            "A pobreza em áreas rurais com grande acesso a recursos.",
+            "A situação em que alguém é incapaz de trabalhar devido à saúde."
+        ]
+    },
+    {
+        "pergunta": "O que é a solidariedade social?",
+        "resposta": "A ação de ajudar e apoiar aqueles que estão em necessidade dentro de uma sociedade.",
+        "opcoes": [
+            "A doação de grandes quantias de dinheiro para a caridade.",
+            "A criação de leis que favorecem grupos ricos.",
+            "A aceitação de toda e qualquer atitude sem questionamento."
+        ]
+    },
+    {
+        "pergunta": "O que caracteriza uma sociedade plural?",
+        "resposta": "Uma sociedade que aceita e respeita a diversidade de ideias, crenças, etnias e culturas.",
+        "opcoes": [
+            "Uma sociedade que impõe uma única religião.",
+            "Uma sociedade onde todos são obrigados a pensar da mesma forma.",
+            "Uma sociedade que exclui pessoas de diferentes origens."
+        ]
+    },
+    {
+        "pergunta": "O que é o racismo?",
+        "resposta": "A discriminação ou hostilidade contra indivíduos com base em sua raça ou etnia.",
+        "opcoes": [
+            "A promoção de todas as raças em igualdade.",
+            "A união de raças diferentes sem discriminação.",
+            "A aceitação de todas as culturas no mundo."
+        ]
+    },
+    {
+        "pergunta": "O que é a classe média?",
+        "resposta": "Grupo social que possui uma renda intermediária, nem muito alta nem muito baixa.",
+        "opcoes": [
+            "Grupo social de pessoas muito ricas.",
+            "Grupo social que vive em extrema pobreza.",
+            "Grupo social composto apenas por trabalhadores braçais."
+        ]
+    },
+    {
+        "pergunta": "O que é o empreendedorismo social?",
+        "resposta": "A criação de empresas e projetos que buscam resolver problemas sociais e ambientais.",
+        "opcoes": [
+            "A criação de empresas focadas apenas em lucro.",
+            "A criação de projetos culturais.",
+            "A promoção de ideias políticas através de empresas."
+        ]
+    },
+    {
+        "pergunta": "O que caracteriza a desigualdade de gênero?",
+        "resposta": "A diferença de oportunidades, direitos e tratamento entre homens e mulheres.",
+        "opcoes": [
+            "A igualdade entre homens e mulheres.",
+            "A promoção de benefícios exclusivos para mulheres.",
+            "A aceitação de uma única posição de gênero na sociedade."
+        ]
+    },
+    {
+        "pergunta": "O que é o conceito de 'esfera pública'?",
+        "resposta": "O espaço social onde as questões políticas, culturais e sociais são discutidas e debatidas.",
+        "opcoes": [
+            "O espaço restrito onde decisões políticas são tomadas.",
+            "O espaço onde eventos privados acontecem.",
+            "O espaço onde atividades esportivas são praticadas."
+        ]
+    }
+]
