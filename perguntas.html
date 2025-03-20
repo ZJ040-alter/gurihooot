@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gurihoot | Quiz</title>
+    <link rel="stylesheet" href="perguntas.css?ver=2">
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var temaSelecionado = localStorage.getItem("temaSelecionado");
+            if (temaSelecionado) {
+                document.getElementById("tema-escolhido").textContent = "Tema escolhido: " + temaSelecionado;
+            }
+        });
+    </script>
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="quiz-container">
+        <div class="timer">
+            <span id="countdown">02:00</span>
+        </div>
+        <div id="tema-escolhido" class="question-number"></div>
+        <div class="question"></div>
+        <div class="answers"></div>
+        <div class="score" style="margin-top: 20px; color: white; font-weight: 600;">
+            Pontuação: <span id="pontuacao"></span>
+        </div>
+        <button class="reset-score">Resetar Pontuação</button>
+    </div>
+    <script>
+        // Atualizar a exibição da pontuação na tela
+        document.getElementById("pontuacao").textContent = localStorage.getItem("pontos");
+
+        // Simulando a sessão com localStorage
+        if (!localStorage.getItem("usuarioId")) {
+            localStorage.setItem("usuarioId", "ID_do_novo_usuario");
+            localStorage.setItem("pontos", "0");
+        }
+
+        const urlParams = new URLSearchParams(window.location.search);
+        const temaSelecionado = urlParams.get("tema") || localStorage.getItem("temaSelecionado");
+        if (!temaSelecionado) {
+            alert("Erro: Nenhum tema selecionado. Volte para a página de temas.");
+            window.location.href = "temas.html";
+        } else {
+            localStorage.setItem("temaSelecionado", temaSelecionado);
+        }
+
+        // Carregar perguntas
+        fetch(`perguntas/perguntas-${temaSelecionado}.json`)
+            .then(response => response.json())
+            .then(perguntas => {
+                let perguntasRespondidas = JSON.parse(localStorage.getItem("perguntasRespondidas")) || [];
+                let perguntasDisponiveis = perguntas.filter(pergunta => !perguntasRespondidas.includes(pergunta.pergunta));
+
+                if (perguntasDisponiveis.length === 0) {
+                    localStorage.setItem("perguntasRespondidas", JSON.stringify([]));
+                    perguntasDisponiveis = perguntas;
+                }
+
+                const perguntaSelecionada = perguntasDisponiveis[Math.floor(Math.random() * perguntasDisponiveis.length)];
+                localStorage.setItem("perguntaAtual", JSON.stringify(perguntaSelecionada));
+                perguntasRespondidas.push(perguntaSelecionada.pergunta);
+                localStorage.setItem("perguntasRespondidas", JSON.stringify(perguntasRespondidas));
+
+                renderizarPergunta(perguntaSelecionada, perguntas);
+            });
+
+        function renderizarPergunta(pergunta, todasPerguntas) {
+            document.querySelector(".question").textContent = pergunta.pergunta;
+            
+            let alternativas = [pergunta.resposta, ...pergunta.opcoes];
+            while (alternativas.length < 4) {
+                let aleatoria = todasPerguntas[Math.floor(Math.random() * todasPerguntas.length)].resposta;
+                if (!alternativas.includes(aleatoria)) {
+                    alternativas.push(aleatoria);
+                }
+            }
+            
+            alternativas.sort(() => Math.random() - 0.5);
+
+            const answersContainer = document.querySelector(".answers");
+            answersContainer.innerHTML = "";
+            alternativas.forEach(opcao => {
+                const button = document.createElement("button");
+                button.textContent = opcao;
+                button.classList.add("answer-btn");
+                button.addEventListener("click", () => verificarResposta(opcao, pergunta.resposta));
+                answersContainer.appendChild(button);
+            });
+        }
+
+        function verificarResposta(respostaUsuario, respostaCorreta) {
+            if (respostaUsuario === respostaCorreta) {
+                let pontos = parseInt(localStorage.getItem("pontos")) || 0;
+                localStorage.setItem("pontos", pontos + 1);
+            }
+            window.location.reload();
+        }
+
+        document.addEventListener("DOMContentLoaded", function() {
+            document.getElementById("pontuacao").textContent = localStorage.getItem("pontos");
+        });
+
+        // Evento para resetar a pontuação
+        document.querySelector(".reset-score").addEventListener("click", function() {
+            localStorage.setItem("pontos", "0");
+            window.location.reload();
+        });
+    </script>
+</body>
+</html>

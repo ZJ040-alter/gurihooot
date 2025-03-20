@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(img/fundo.png);
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.ranking-container {
+    width: 350px;
+    padding: 20px;
+    background-image: url(img/fundo.png);    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    text-align: left;
+    position: relative;
+}
+.leaderboard-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    background: #5c00a7;
+    padding: 10px;
+    border-radius: 5px;
+    width: 150px;
+    position: absolute;
+    top: -15px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.mode-title {
+    font-weight: bold;
+    margin-top: 20px;
+    background: #5c00a7;
+    color: white;
+    padding: 5px;
+    display: inline-block;
+    border-radius: 5px;
+}
+.ranking {
+    list-style: none;
+    padding: 0;
+}
+.ranking li {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+    font-size: 18px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+.ranking li:last-child {
+    border-bottom: none;
+}

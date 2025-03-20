@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ranking - Gurihoot</title>
+    <link rel="stylesheet" href="acertos.css">
+</head>
+<body>
+    <div class="ranking-container">
+        <h1>Parabéns!</h1>
+        <b>Sua pontuação final: <span id="pontuacao-final"></span></b>
+        <br>
+        Compare a sua pontuação com o seu amigo :)
+    </div>
+    <div class="divBtn">
+        <div class="button">
+            <a href="gurihoot.html">VOLTAR</a>
+        </div>
+    </div>
+    
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const pontuacao = localStorage.getItem("pontos") || 0;
+            document.getElementById("pontuacao-final").textContent = pontuacao;
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temas - Gurihoot</title>
+    <link rel="stylesheet" href="temas.css?ver=2">
+    <script>
+        function salvarTema(tema) {
+            localStorage.setItem("temaSelecionado", tema);
+        }
+    </script>
+</head>
+<body>
+    <h1>TEMAS</h1>
+    <main>
+        <div class="modos">
+            <li>
+                <ul><a href="perguntas.html?tema=sociais" id="social" onclick="salvarTema('Social')">➟ SOCIAL</a></ul>
+                <ul><a href="perguntas.html?tema=cyberbullying" id="cyberbullying" onclick="salvarTema('Cyberbullying')">➟ CYBERBULLYING</a></ul>
+                <ul><a href="perguntas.html?tema=gerais" id="gerais" onclick="salvarTema('Conhecimentos Gerais')">➟ CONHECIMENTOS GERAIS</a></ul>
+            </li>
+        </div>
+
+        <div class="divBtn">
+            <div class="button">
+              <a href="gurihoot.php">VOLTAR</a>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
